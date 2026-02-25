@@ -9,8 +9,8 @@ import LongDistanceSection from './components/LongDistanceSection';
 import BirthdaySection from './components/BirthdaySection';
 import Footer from './components/Footer';
 
-const BEGINNING_IMG = '/images/begnning.jpeg';
-const DEVELOPER_IMG = '/images/banglore.jpeg';
+const BEGINNING_IMG = 'images/begnning.jpeg';
+const DEVELOPER_IMG = 'images/banglore.jpeg';
 
 const HeartPulse = () => (
   <div className="w-full flex items-center justify-center min-h-[300px]">

@@ -36,7 +36,7 @@ export default function BirthdaySection() {
                 >
                     <div className="flex justify-center mb-6">
                         <div className="relative w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden border-4 border-[#e2b49a]/30 shadow-2xl animate-heartbeat">
-                            <img src="/images/airport.jpeg" alt="Special moment" className="w-full h-full object-cover" />
+                            <img src="images/airport.jpeg" alt="Special moment" className="w-full h-full object-cover" />
                         </div>
                     </div>
 

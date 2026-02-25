@@ -4,45 +4,45 @@ const TIMELINE_EVENTS = [
     {
         title: "The Tough Phase",
         description: "2022 started with challenges that tested us in ways we hadn't imagined. Personal struggles and the weight of the world felt heavy, but it was in this darkness that our bond found its truest light.",
-        image: "/images/image4.jpeg",
+        image: "images/image4.jpeg",
         tone: "cool"
     },
     {
         title: "Emotional Anchor",
         description: "Mujhe yaad hai woh pal jab sab kuch bikhar raha tha, tum mere saath khade rahe. Bina kisi condition ke, bina kisi darr ke. You weren't just my partner; you became my strength.",
-        image: "/images/image5.jpeg",
+        image: "images/image5.jpeg",
         tone: "cool"
     },
     {
         title: "The Reunion",
         description: "And then, in the middle of all that chaos, we finally met. 2022 brought us back together, face to face. No screens, no distance—just us in the same space, breathing the same air.",
-        image: "/images/image6.jpeg",
+        image: "images/image6.jpeg",
         tone: "warm",
         rotate: 270
     },
     {
         title: "Meaningful Moments",
         description: "We spent days just talking, walk pe jaana, aur ek dusre ki presence ko appreciate karna. Woh waqt sirf ghoomne ka nahi tha, woh hume heal karne ka waqt tha.",
-        image: "/images/image7.jpeg",
+        image: "images/image7.jpeg",
         tone: "warm",
         rotate: 270
     },
     {
         title: "Supportive Partnership",
         description: "Humne seekha ki life hamesha perfect nahi hogi, par agar hum saath hain, toh har mushkil chhoti lagti hai. Our love matured into a partnership that could weather any storm.",
-        image: "/images/image8.jpeg",
+        image: "images/image8.jpeg",
         tone: "warm"
     },
     {
         title: "Stronger",
         description: "Aur phir hume apne apne safar ke liye nikalna tha. Thoda heavy tha. Par is baar hum toot nahi rahe the.",
-        image: "/images/image9.jpeg",
+        image: "images/image9.jpeg",
         tone: "cool"
     },
     {
         title: "Departing Again",
         description: "Dobaara door jaana mushkil tha, par is baar dukh nahi tha. Ek garv tha. Merchant Navy aur Software Developer—do alag duniya, par ek hi dil. Until we meet again. ❤️",
-        image: "/images/image10.jpeg",
+        image: "images/image10.jpeg",
         tone: "cool"
     }
 ];

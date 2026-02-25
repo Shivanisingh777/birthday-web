@@ -14,7 +14,7 @@ export default function ChandigarhSection() {
                     playsInline
                     className="w-full h-full object-fit animate-slow-zoom"
                 >
-                    <source src="/images/video.mp4" type="video/mp4" />
+                    <source src="images/video.mp4" type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
 

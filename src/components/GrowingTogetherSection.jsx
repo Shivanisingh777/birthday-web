@@ -7,9 +7,9 @@ export default function GrowingTogetherSection() {
     const bgRef3 = useReveal();
 
     const images = [
-        { url: '/images/image2.jpeg', className: 'w-full h-full object-cover scale-105 transition-all duration-1000' },
-        { url: '/images/image-2-1.jpeg', className: 'absolute top-10 left-10 w-1/3 aspect-square object-cover shadow-2xl rotate-[-5deg] animate-float-slow transition-all duration-1000' },
-        { url: '/images/image2-3.jpeg', className: 'absolute bottom-10 right-10 w-1/4 aspect-video object-cover shadow-2xl rotate-[3deg] animate-float-slow-reverse transition-all duration-1000' }
+        { url: 'images/image2.jpeg', className: 'w-full h-full object-cover scale-105 transition-all duration-1000' },
+        { url: 'images/image-2-1.jpeg', className: 'absolute top-10 left-10 w-1/3 aspect-square object-cover shadow-2xl rotate-[-5deg] animate-float-slow transition-all duration-1000' },
+        { url: 'images/image2-3.jpeg', className: 'absolute bottom-10 right-10 w-1/4 aspect-video object-cover shadow-2xl rotate-[3deg] animate-float-slow-reverse transition-all duration-1000' }
     ];
 
     return (
